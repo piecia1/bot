@@ -1,0 +1,96 @@
+is_enough_crop() - trzeba zmienic nazwy na polskie,
+ale w mojej grze nie mialem jeszcze takiego przypadku, zatem nie wiem jak po polsku brzmi nazwa, cos w stylu za ma³o zboza
+
+village ------------------------------------------------------
+1. build()
+2. self.parse_link_to_build()
+3. self.is_enough_resources() - > return
+4. self.parse_required_resources() -> return
+5. self.parse_resources_amount()
+6. self.parse_resource() ->return
+7. self.parse_resources_amount() ->return
+town -------------------------------------------------
+
+
+raid----------------------
+{'x':20, 'y':61};1544793524.9756103
+
+
+cmd: prepareMarketplace
+r1: 1
+r2: 1
+r3: 1
+r4: 1
+dname: 
+x: 20
+y: 61
+id: 27
+t: 5
+x2: 1
+ajaxToken: 1712efa9f5b872b26b8e5d6100501092
+
+cmd: reloadMarketplace
+ajaxToken: 1712efa9f5b872b26b8e5d6100501092
+3ce7b13280ad06fd2058e41a2d2b95e3
+---------------------------------------------------------------------------
+cmd: prepareMarketplace
+r1: 1
+r2: 1
+r3: 1
+r4: 1
+dname: 
+x: 20
+y: 61
+id: 27
+t: 5
+x2: 1
+ajaxToken: 3ce7b13280ad06fd2058e41a2d2b95e3
+-------------------------------------------------------------------------------
+cmd: prepareMarketplace
+t: 5
+id: 27
+a: 4678
+sz: 394
+kid: 55960
+c: 4d17bb
+x2: 1
+r1: 1
+r2: 1
+r3: 1
+r4: 1
+ajaxToken: 3ce7b13280ad06fd2058e41a2d2b95e3
+------------------------------------------------------------------------------------------
+cmd: reloadMarketplace
+ajaxToken: 3ce7b13280ad06fd2058e41a2d2b95e3
+
+--------------------------------------------------------------------
+cmd: prepareMarketplace
+r1: 1
+r2: 1
+r3: 1
+r4: 1
+dname: 
+x: 20
+y: 61
+id: 27
+t: 5
+x2: 1
+ajaxToken: d6109b43a577e5b8b8858ce3e5d5519c
+
+---------------------------------------------------------------------------
+cmd: prepareMarketplace
+t: 5
+id: 27
+a: 4678
+sz: 397
+kid: 55960
+c: fb474d
+x2: 1
+r1: 1
+r2: 1
+r3: 1
+r4: 1
+ajaxToken: d6109b43a577e5b8b8858ce3e5d5519c
+---------------------------------------------------------
+cmd: reloadMarketplace
+ajaxToken: d6109b43a577e5b8b8858ce3e5d5519c
